@@ -1,0 +1,1 @@
+# legacy-sharepoint-search-ssa-rebuild
