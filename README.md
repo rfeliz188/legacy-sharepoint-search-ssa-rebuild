@@ -5,7 +5,7 @@
 **Problem:** Enterprise SharePoint 2010 portal had **broken Search** (user queries failed / SSA degraded).  
 **Solution:** Built a **PowerShell recovery script** to **recreate the Search Service Application (SSA)** and rebuild **Admin + Crawl + Query** components safely.
 
-## What I Delivered (in plain English)
+## What I Delivered
 - ✅ Restarted and stabilized Search services
 - ✅ Rebuilt SSA + topology (Admin/Crawl/Query) in a controlled way
 - ✅ Prevented corruption by **activating new topology → waiting inactive → removing old**
